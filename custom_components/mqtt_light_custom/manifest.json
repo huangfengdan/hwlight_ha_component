@@ -1,9 +1,10 @@
 {
     "domain": "mqtt_light_custom",
-    "name": "我的 MQTT 灯",
-    "documentation": "https://example.com",
+    "name": "我的MQTT灯",
+    "documentation": "https://github.com/huangfengdan/hwlight_ha_component",
     "dependencies": ["mqtt"],
-    "codeowners": ["@yourusername"],
+    "codeowners": ["@stery"],
     "requirements": [],
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "issue_tracker": "https://github.com/huangfengdan/hwlight_ha_component/issues"
 }
