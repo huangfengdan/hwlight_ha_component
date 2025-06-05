@@ -2,7 +2,7 @@
 该插件可通过HACS ---> Custom repositories 引入并下载。
 
 下载插件后，可通过配置configuration.yaml，配置相关MQTT指令主题，示例：
-light:
+`light:
   - platform: mqtt_light_custom
     name: "我的MQTT灯"
     command_topic: "my/light/set"
@@ -11,3 +11,4 @@ light:
     brightness_state_topic: "my/light/brightness/state"
     rgb_command_topic: "my/light/rgb/set"
     rgb_state_topic: "my/light/rgb/state"
+`
