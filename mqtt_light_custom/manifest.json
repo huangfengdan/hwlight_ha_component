@@ -1,0 +1,9 @@
+{
+    "domain": "mqtt_light_custom",
+    "name": "我的 MQTT 灯",
+    "documentation": "https://example.com",
+    "dependencies": ["mqtt"],
+    "codeowners": ["@yourusername"],
+    "requirements": [],
+    "version": "1.0.0"
+}
