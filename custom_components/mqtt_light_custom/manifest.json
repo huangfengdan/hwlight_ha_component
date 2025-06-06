@@ -1,6 +1,6 @@
 {
     "domain": "mqtt_light_custom",
-    "name": "我的MQTT灯",
+    "name": "HWAI Lighting",
     "documentation": "https://github.com/huangfengdan/hwlight_ha_component",
     "dependencies": ["mqtt"],
     "codeowners": ["@stery"],
